@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : TrueFalseQuestions.xml
+    Created on : 2016/10/20
+    Author     : 
+    Description:
+        Purpose of the document follows.
+-->
+
+<truefalsequestions>
+<question type="truefalse">
+ <answer fraction="100">
+    <text>true</text>
+    <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="0">
+    <text>false</text>
+    <feedback><text>Ooops!</text></feedback>
+ </answer>
+</truefalsequestions>
