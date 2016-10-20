@@ -22,6 +22,6 @@
  </answer>
  <answer fraction="100">
      <text>An alternative answer</text>
-     <feedback><text>Correct!</text></feedback>
+     <feedback><text>Correct!</text></feedback>$
  </answer>
 </exemple2>
