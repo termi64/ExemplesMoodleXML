@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : exemple1.xml
+    Created on : 2016/10/20
+    Author     : 
+    Description:
+        Purpose of the document follows.
+-->
+
+<exemple1>
+<question type="shortanswer">
+ <answer fraction="100">
+     <text>The correct answer</text>
+     <feedback><text>Correct!</text></feedback>
+ </answer>
+ 
+ <question type="shortanswer">
+ <answer fraction="100">
+     <text>The correct answer</text>
+     <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="100">
+     <text>An alternative answer</text>
+     <feedback><text>Correct!</text></feedback>
+ </answer>
+</exemple1>
